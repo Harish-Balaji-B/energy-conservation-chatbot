@@ -7,14 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/18eUPONY6k5twhVBtEUoIlZaKrkBJvhgh
 """
 
-from IPython.display import clear_output
-
-!pip install openai
-!pip install streamlit_chat
-!pip install -q streamlit
-!pip install streamlit
-clear_output()
-
 
 %%writefile app.py
 import streamlit as st
