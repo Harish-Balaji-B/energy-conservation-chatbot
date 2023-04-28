@@ -8,7 +8,6 @@ Original file is located at
 """
 
 
-%%writefile app.py
 import streamlit as st
 from streamlit_chat import message
 import os
@@ -70,9 +69,3 @@ if st.session_state['generated']:
         message(st.session_state["generated"][i], key=str(i))
 
 
-!npm install localtunnel
-clear_output()
-
-!streamlit run /content/app.py &>/content/logs.txt &
-
-!npx localtunnel --port 8501
