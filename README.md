@@ -14,7 +14,7 @@ Run all the code snippets of the ipynb and then replace the `API_KEY` with your 
 
 ### Colab link:
 
-https://colab.research.google.com/drive/1c2qa1bpwzxnznGNN_NG_Ls_VGotvF8su#scrollTo=UR9bX3J8ZnNR
+https://colab.research.google.com/drive/1JTov7LWEerqNsVybVQyeGLVHUHmAlYBA?usp=sharing
 
 ### Example Results
 <p align = "center"> <img src="https://github.com/sanj33krsna/Code-Bot-PowerBot/blob/main/Demo/codebot.gif" width="600"> </p>
