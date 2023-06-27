@@ -41,7 +41,7 @@ Launch the chat service locally :
 https://colab.research.google.com/drive/1JTov7LWEerqNsVybVQyeGLVHUHmAlYBA?usp=sharing
 
 ### Example Results
-<p align = "center"> <img src="https://github.com/sanj33krsna/Code-Bot-PowerBot/blob/main/Demo/codebot.gif" width="600"> </p>
+![lmao](https://github.com/Harish-Balaji-B/energy-conservation-chatbot/blob/main/Demo/Screenshot%202023-04-28%20164803.png)
 
 ### Future Updates!
 
