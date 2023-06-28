@@ -41,7 +41,11 @@ Launch the chat service locally :
 https://colab.research.google.com/drive/1JTov7LWEerqNsVybVQyeGLVHUHmAlYBA?usp=sharing
 
 ### Example Results
-![lmao](https://github.com/Harish-Balaji-B/energy-conservation-chatbot/blob/main/Demo/Screenshot%202023-04-28%20164803.png)
+<strong>Sample Photo</strong><br>
+![lmao](https://github.com/Harish-Balaji-B/energy-conservation-chatbot/blob/main/Demo/Screenshot%202023-04-28%20164803.png)<br>
+
+<strong>Running</strong><br>
+![lmao](https://github.com/Harish-Balaji-B/energy-conservation-chatbot/blob/main/Demo/codebot.gif)<br>
 
 ### Future Updates!
 
